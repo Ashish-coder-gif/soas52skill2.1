@@ -1,0 +1,24 @@
+# Maven
+target/
+*/target/
+
+# Eclipse / Spring Tool Suite
+.classpath
+.project
+.settings/
+.sts4-cache/
+.metadata/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
